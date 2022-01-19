@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PLbMRlgJnCyXVsg/WTvR2h9BjdOUNnMMghuWjkwVauo=",
+  "Source": "web-api-auth",
+  "BasePath": "_content/web-api-auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9D75EACC-0142-49A9-B5DE-921C0E6C53E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.web-api-auth PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="web-api-auth/Program.cs">
+    <Files>
+      <File FileName="web-api-auth/Program.cs" Line="47" Column="28" />
+      <File FileName="web-api-auth/Controllers/AuthController.cs" Line="106" Column="58" />
+      <File FileName="web-api-auth/Controllers/MainGameController.cs" Line="288" Column="28" />
+      <File FileName="web-api-auth/Controllers/WeatherForecastController.cs" Line="7" Column="16" />
+      <File FileName="web-api-auth/appsettings.json" Line="4" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="web-api-auth" expanded="True">
+            <Node name="web-api-auth" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
